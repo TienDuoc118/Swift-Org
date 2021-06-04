@@ -22,5 +22,3 @@ print(x, y)
 if x == y {
     print("x = y")
 }
-
-
