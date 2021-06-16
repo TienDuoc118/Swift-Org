@@ -4,5 +4,9 @@
         <page name='String Literals'/>
         <page name='Initializing an Empty String'/>
         <page name='String Mutability'/>
+        <page name='Characters'/>
+        <page name='Concatenating String and Character'/>
+        <page name='Acessing and Modyfing a String'/>
+        <page name='Substrings'/>
     </pages>
 </playground>
